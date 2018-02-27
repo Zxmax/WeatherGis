@@ -1,2 +1,0 @@
-# WeatherGis
-sharpmap、gdal、python
